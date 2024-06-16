@@ -1,0 +1,10 @@
+name: PlayerEmotes
+author: wildmaster84
+api-version: 1.13
+description: plugin
+main: me.wild.PlayerEmotes
+version: "1.0"
+commands:
+  emotes:
+    description: emotes command
+    usage: /emotes <reload>

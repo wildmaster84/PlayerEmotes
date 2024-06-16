@@ -1,0 +1,3 @@
+slap:
+   self: "{player} want to slap someone"
+   target: "{player} slaped {target}"
